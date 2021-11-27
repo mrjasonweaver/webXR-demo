@@ -1,0 +1,2 @@
+(this["webpackJsonpwebvr-demo"]=this["webpackJsonpwebvr-demo"]||[]).push([[0],{18:function(e,t,n){"use strict";n.r(t);var s=n(8),c=n.n(s),b=(n(0),n(6)),i=n(2);var j=function(){return Object(i.jsxs)(b.c,{children:[Object(i.jsx)("ambientLight",{}),Object(i.jsx)("pointLight",{position:[10,10,10]}),Object(i.jsx)(b.a,{}),Object(i.jsx)(b.b,{})]})};c.a.render(Object(i.jsx)(j,{}),document.getElementById("root"))}},[[18,1,2]]]);
+//# sourceMappingURL=main.c885b305.chunk.js.map
