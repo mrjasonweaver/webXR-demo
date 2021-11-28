@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# react-three-fiber WebXR Demo
+
+This is a demo of [@react-three/xr](https://github.com/pmndrs/react-xr) using the [react xr hands demo](https://codesandbox.io/s/react-xr-hands-demo-gczkp) as a starting point. The goal is to show how to use WebXR to create a simple VR experience. I'll start with creating a VR environment and then add blocks that a user can interact with.
+
+
+# Create React App commands
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
